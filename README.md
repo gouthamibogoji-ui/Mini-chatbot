@@ -1,4 +1,4 @@
-🤖 Rule-Based Chatbot (Python • NLTK • Streamlit)
+# Rule-Based Chatbot (Python • NLTK • Streamlit)
 
 An interactive rule-based chatbot web application built using Python, NLTK, and Streamlit.
 
